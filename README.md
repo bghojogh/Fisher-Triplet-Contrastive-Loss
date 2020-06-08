@@ -11,4 +11,5 @@ This is the code for the following papers:
 
 ## Triplet and Contrastive Losses in Siamese Networks:
 
-[Siamese2.pdf](https://github.com/bghojogh/Fisher-Triplet-Contrastive-Loss/files/4749143/Siamese2.pdf)
+![Siamese2-1](https://user-images.githubusercontent.com/66282117/84091460-6e72fa80-a9c2-11ea-80f4-10071eca4cdd.png)
+

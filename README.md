@@ -15,4 +15,4 @@ This is the code for the following papers:
 
 ## Embedding of MNIST
 
-
+![visual_mnist](https://user-images.githubusercontent.com/66282117/84091597-e5a88e80-a9c2-11ea-8796-cc1ab61ec37f.png)

@@ -17,7 +17,7 @@ import pickle
 
 
 def main():
-    dataset = "CIFAR10"  # MNIST, CIFAR10
+    dataset = "MNIST"  # MNIST, CIFAR10
     # n_triplets = 22528
     n_triplets = 500
     path_save_images = "./triplets/" + dataset + "/images/"

@@ -8,6 +8,7 @@ This is the code for the following papers:
   - Link of paper: [click here](https://arxiv.org/abs/2004.04674).
 
 - Benyamin Ghojogh, Milad Sikaroudi, Sobhan Shafiei, H. R. Tizhoosh, Fakhri Karray, and Mark Crowley. "**Fisher Discriminant Triplet and Contrastive Losses for Training Siamese Networks**" International Joint Conference on Neural Networks (IJCNN), IEEE, 2020.
+  - Link of paper: [click here](https://ieeexplore.ieee.org/document/9206833).
 
 This is the code for Fisher Discriminant Triplet (FDT) and Fisher Discriminant Contrastive (FDC) Losses for training Siamese networks.
 
